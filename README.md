@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Product Context
+## Product Context
 
 This prototype was built to explore a core e-commerce growth problem:
 
@@ -24,7 +24,7 @@ Designing for all three simultaneously is the core product challenge this protot
 
 ---
 
-## 🖥️ What's Built
+## What's Built
 
 ### View 1 — Brand Partner Dashboard
 - Create and manage advertisement bundles with up to 3 items per bundle
@@ -49,7 +49,7 @@ Designing for all three simultaneously is the core product challenge this protot
 
 ---
 
-## 📈 Key Metrics Simulated
+## Key Metrics Simulated
 
 | Metric | Result |
 |---|---|
@@ -60,7 +60,7 @@ Designing for all three simultaneously is the core product challenge this protot
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -73,7 +73,7 @@ Designing for all three simultaneously is the core product challenge this protot
 
 ---
 
-## 💼 PM Skills Demonstrated
+## PM Skills Demonstrated
 
 **Product Discovery & Prioritization**
 Designed around Jobs-to-be-Done for three distinct user types. Every feature traces back to a specific user problem — not feature parity or assumptions.
@@ -92,7 +92,7 @@ Out-of-stock scenarios, low-stock thresholds, and bundle integrity violations ar
 
 ---
 
-## 🚀 Run Locally
+## Run Locally
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/nexbundle.git
@@ -105,7 +105,7 @@ Opens at `http://localhost:3000`
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -116,11 +116,3 @@ README.md
 ```
 
 ---
-
-## 🔗 Related Case Study
-
-This prototype supports the **Omnichannel Growth: Multi-Sided Marketplace Bundling** case study (Feb 2025), which covers the full product discovery process, stakeholder alignment, and user testing methodology behind the +15% AOV lift result.
-
----
-
-*Built as a product portfolio project to demonstrate end-to-end PM thinking: from discovery and API design to prototype delivery and metric validation.*
